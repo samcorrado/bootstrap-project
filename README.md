@@ -1,5 +1,5 @@
-# bootstrap-project
-
+GATE - MST Web Development
+--------------------------
 A little windows batch file that helps with setting the github user.name and user.email fields. 
 
 
